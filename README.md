@@ -1,4 +1,18 @@
-Built as an entry for the Stardance Challenge, this web application is an interactive tribute dedicated to the extraordinary life and legacy of Dr. A.P.J. Abdul Kalam. Designed to inspire students and history enthusiasts alike, the site presents Dr. Kalam's journey—from his modest roots in Rameswaram to his groundbreaking career as India’s "Missile Man" and 11th President—through a responsive layout, a chronological milestone timeline, and a curated library of his literary works and quotes. The project highlights clean frontend development practices, and accessible web design to deliver an educational digital experience.
-Designed and built as an entry for the Stardance Challenge using Visual Studio Code, this web application is an interactive digital tribute dedicated to honoring the life, scientific legacy, and presidential tenure of Dr. A.P.J. Abdul Kalam. Developed within VS Code using semantic HTML5, the platform presents a complete view of Dr. Kalam's journey—from his humble childhood in Rameswaram to his major achievements at ISRO and DRDO, including the Pokhran-II tests, missile development, and his literary works like Wings of Fire. Smooth CSS transitions was leveraged to craft a fully responsive layout, sleek visual card designs, and CSS-driven hover effects across all device screens without relying on JavaScript. Finally, the project was version-controlled using Git, hosted on GitHub, and deployed live via GitHub Pages to deliver an engaging, accessible, and lightweight educational experience.
+# Tribute to Dr. A.P.J. Abdul Kalam
 
-<img width="1917" height="1077" alt="devlog 4" src="https://github.com/user-attachments/assets/b209770e-fda5-4d66-81bb-ace1d252d133" />
+A simple webpage dedicated to the life, achievements, and legacy of Dr. A.P.J. Abdul Kalam, the Missile Man of India and the 11th President of India.
+
+## Features
+- **Clean Layout:** Organized into clear sections covering his early life, aerospace career at ISRO and DRDO, presidency, and lasting legacy.
+- **Simple Design:** Built with basic HTML and CSS for easy reading, featuring soft background colors, rounded cards, and centered photo galleries.
+- **Responsive Images:** Images automatically stay centered and neatly sized across different screen sizes.
+
+## Files Included
+- `index.html` – Contains the main structure, text content, and image links for the webpage.
+- `style.css` – Contains the styling rules for fonts, colors, spacing, and centered image alignment.
+
+## How to Run
+1. Download or clone both `index.html` and `style.css` into the same folder.
+2. Double-click `index.html` to open it in any web browser (Chrome, Edge, Safari, or Firefox).
+
+<img width="1901" height="967" alt="banner 2" src="https://github.com/user-attachments/assets/1e9045fb-f707-47a1-856f-369da6f7e2ab" />
